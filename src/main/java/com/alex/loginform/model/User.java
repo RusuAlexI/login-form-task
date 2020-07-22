@@ -11,7 +11,7 @@ public class User {
     @NotNull
     @NotEmpty(message = "Please enter your e-mail.")
     @Email(regexp = "^([a-zA-Z0-9_\\-\\.]+)@([a-zA-Z0-9_\\-\\.]+)\\.([a-zA-Z]{2,5})$",
-            message = "Email incorrect, try to retype")
+            message = "Email is incorrect, try to re-enter")
     private String email;
 
     @NotNull
