@@ -13,12 +13,16 @@ On fail show the corresponding message on the login page (the email entered shou
 TECHNOLOGIES THAT SHOULD BE USED:
 
 Spring MVC
+
 Spring Security
+
 Spring Boot
+
 
 Run the project from command prompt:
 
-To start the application, while inside the project folder, you can open a command prompt and enter "mvn spring-boot:run" to start the project. 
+To start the application, while inside the project folder, you can open a command prompt 
+and enter "mvn spring-boot:run" to start the project. 
 
 Run the project inside IntelliJ Idea:
 
