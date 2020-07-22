@@ -6,6 +6,7 @@ Create login form (email, password) with the basic validation (valid email; pass
 
 On success login (with the hardcoded server-side authentication) show the success page with logout link. 
 Keep in mind that this page should only be accessible by logged in users.
+
 On fail show the corresponding message on the login page (the email entered should stay on the page).
  
 
